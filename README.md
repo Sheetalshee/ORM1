@@ -1,6 +1,6 @@
 # Ex02 Django ORM Web Application
 ## Name:Ramya.P
-## 212223240137
+## Register number: 212223240137
 ## Date: 21.3.2025
 
 ## AIM
