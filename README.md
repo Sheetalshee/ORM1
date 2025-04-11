@@ -1,6 +1,6 @@
 # Ex02 Django ORM Web Application
-## Name:Ramya.P
-## Register number: 212223240137
+## Name:SHEETAL.R
+## Register number: 212223230206
 ## Date: 21.3.2025
 
 ## AIM
